@@ -1,4 +1,4 @@
-# Gulp Boilerplate w/ Backend Support [![Build Status](https://travis-ci.org/cferdinandi/gulp-boilerplate.svg)](https://travis-ci.org/cferdinandi/gulp-boilerplate)
+# Gulp Boilerplate w/ Backend Support [![Build Status](https://travis-ci.org/tilakmaddy/gulp-boilerplate.svg)](https://travis-ci.org/cferdinandi/gulp-boilerplate)
 
 > This includes the "most common tasks" of a developer which can be achieved through [Gulp.js](http://gulpjs.com)
 
