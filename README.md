@@ -24,10 +24,7 @@ Make sure these are installed first.
 
 1. In bash/terminal/command line, `cd` into your project directory.
 2. Run `npm install` to install required files.
-3. When it's done installing, run one of the task runners to get going:
-	* `gulp` manually compiles files and runs unit tests.
-	* `gulp watch` automatically compiles files, runs unit tests, and applies changes using [LiveReload](http://livereload.com/).
-	* `gulp test` compiles files and runs unit tests.
+3. When it's done installing see the features below 
 
 ## Features and Usage
 
