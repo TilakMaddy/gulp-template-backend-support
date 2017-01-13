@@ -75,4 +75,4 @@ Take care to maintain the existing coding style. Please apply fixes to both the 
 
 ## License
 
-Do whatever you want ~ Open source for life suckers !
+This code is available under the MIT license. 
