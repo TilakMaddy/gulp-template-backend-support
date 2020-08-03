@@ -4,6 +4,8 @@
 Gulp has died out of existence ! I'd rather you to use Parcel JS https://parceljs.org/ 
 Keep on hacking :)
 
+#######################################
+
 # Gulp Boilerplate w/ Backend Support [![Build Status](https://travis-ci.org/TilakMaddy/gulp-template-backend-support.svg?branch=master)](https://travis-ci.org/TilakMaddy/gulp-template-backend-support)
 
 > This includes the "most common tasks" of a developer which can be achieved through [Gulp.js](http://gulpjs.com)
